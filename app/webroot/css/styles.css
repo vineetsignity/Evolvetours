@@ -1,0 +1,21 @@
+.modal-footer {   border-top: 0px; }
+.modal-dialog{ margin-top:150px; background-color: #e7e8e7;border: 1px solid #999;
+	border: 1px solid rgba(0,0,0,0.2);
+	border-radius: 6px;
+	outline: 0;
+	-webkit-box-shadow: 0 3px 9px rgba(0,0,0,0.5);
+	box-shadow: 0 3px 9px rgba(0,0,0,0.5); position:relative;}
+.background {
+	background-image:url('../img/background.jpg'); background-repeat:no-repeat; background-size: cover;}
+.user {  padding: 0; margin: 0px;}
+.textSt { font-size:18px; line-height:50px;}
+.logo {     position: absolute;
+ top: -80px;
+			}
+			
+.backgroundcolor{   margin-top: 51px;}
+.forgotpassword{ line-height:45px; float: right; margin-right: 15px;}
+.error{color:red;}
+#loginbox{ margin-top:20%;}
+#loginbox .panel-heading img{ margin-top:-90px;}
+#loginbox input, #loginbox label{ display:inline-block;} 
